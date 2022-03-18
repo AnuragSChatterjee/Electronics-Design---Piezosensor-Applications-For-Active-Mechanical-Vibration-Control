@@ -1,0 +1,13 @@
+1. Designed analog and digital AC Signal and Charge Amplifier electronic circuits required to power all piezoelectric sensors applications for the startup's internal projects.
+
+2. Performed analog circuit design & simulation on the amplifier circuits developed using LTSpice software for signal analysis.
+
+3. Developed schematics & PCB Designs for both analog AC Signal & Charge Amplifier circuits using Autodesk Eagle-CAD & manufactured the PCB used to power the various sensors and actuators necessary for vibration attenuation & energy harvesting.
+
+4. Analyzed circuit functionality using Thevenin analysis and troubleshooted the PCB developed for the smart piezoelectric material to accurately meet technical specifications through component verifications and manufacturing requirements.
+
+5. Conducted measurements & hardware testing of PCB (Oscilloscope, Function & Signal Generator) and data acquisition systems (LabJack) for data collection to verify simulation results and meet JLCPCB design specifications.
+
+6. Built a Guided User Interface (GUI) using Arduino-MATLAB Serial Communication using MATLAB & basic C++ microcontroller programming on Arduino IDE to analyze acceleration behaviour of live motion data from accelerometer sensor for piezoelectric sensors in time & fast fourier transform (FFT) analysis.
+
+7. Solved the problem of unforeseen instability of the earlier manufactured AC Amplifier circuit connected to a live piezoelectronic sensor circuit in 2 weeks, within the stipulated deadline while meeting design specifications.
